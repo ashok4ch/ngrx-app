@@ -1,7 +1,9 @@
 
 # NgrxApp
 
-This project was generated to demo the NGRX implementation in angular project
+This project was generated to demo the NGRX implementation in the Angular project.
+
+## Project generation tolls
 project generated using [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
 ## Development server
